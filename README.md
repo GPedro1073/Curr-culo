@@ -19,7 +19,7 @@
   <a href="instagram.com/gunther_ritter" >
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  <a/> 
-  <a href="https://wa.me/5549991602007?text=Ol%C3%A1%20%F0%9F%91%8B%20Em%20que%20posso%20ajudar?" >
+  <a href="https://wa.me/5549991602007?text=Ol%C3%A1!%20Em%20que%20posso%20ajudar?" >
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a/>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
